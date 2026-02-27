@@ -1,73 +1,67 @@
-<p align="center">BALASKANTHAN AK</p>
-<p align="center"> Full Stack Developer • Cyber Security Enthusiast • System Builder </p> <p align="center"> <a href="https://github.com/balas2027"> <img src="https://img.shields.io/badge/GitHub-balas2027-181717?style=for-the-badge&logo=github" /> </a> <a href="https://linkedin.com/in/YOUR_LINK"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="https://better-com-clone-balas.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </p>
-Engineering Mindset
-const engineer = {
-  name: "Balaskanthan AK",
-  role: "Full Stack Developer",
-  specialization: "Cyber Security",
-  building: "Secure, scalable web systems",
-  focus: ["Backend Architecture", "Security", "System Design"],
-};
+BALASKANTHAN AK
+<p align="center"> <b>Full Stack Engineer • Cyber Security Specialist • System Design Learner</b> </p> <p align="center"> Building secure backend systems and scalable web applications. </p>
+About
 
-I design and build real-world applications with a strong focus on performance, security, and clean architecture.
-I enjoy solving complex backend problems and continuously sharpening my system design skills.
+Computer Science Engineering student specializing in Cyber Security.
+I focus on backend architecture, secure API design, and building production-ready systems with clean, maintainable code.
 
-Core Stack
+I care about performance, scalability, and security — not just making things work, but making them work correctly.
+
+Tech Stack
 
 Backend
-Node.js • Express • Spring Boot • FastAPI
+Node.js • Express.js • Spring Boot • FastAPI
 
 Frontend
-React • Next.js • JavaScript • Tailwind
+React • Next.js • JavaScript • Tailwind CSS
 
 Languages
 Java • Python • JavaScript
 
 Database
-MySQL • PostgreSQL • MongoDB
+PostgreSQL • MySQL • MongoDB
 
-Security
-Wireshark • PCAP Analysis • Scapy • Secure API Design
+Security & Tools
+Wireshark • Scapy • PCAP Analysis • Git • Postman • Vercel
 
-Selected Projects
+Selected Work
 
-HavenTrail – Secure Route Platform
+HavenTrail — Secure Route Platform
 https://haventrail.free.nf
 
-CyberXelerae 2K26 Symposium Website
+CyberXelerae 2K26 — Symposium Website
 https://cyberxelerae2k26.vercel.app/
 
-UberClone – Ride Sharing System
+UberClone — Real-Time Ride System
 https://uberclone-balas.vercel.app/
 
-Unified Learning Platform
+Unified Learning Platform — LMS System
 https://unified-learning.vercel.app/
 
-Vibe Holidays – Travel Booking Platform
-https://vibe-holidays.vercel.app/
-
-Ilakkanam.in – Tamil Learning Platform
+Ilakkanam.in — Tamil Learning Platform
 https://ilakkanam.in
 
-Current Focus
+Engineering Focus (2026)
 
-Advanced Backend Engineering
+Secure Backend Architecture
 
-Secure Application Development
+Application Security
+
+System Design Fundamentals
 
 Data Structures & Algorithms
 
-Scalable System Design
+Building real-world scalable systems
 
-Development Philosophy
+Philosophy
 
-Build systems that scale.
-Write code that lasts.
-Secure everything by default.
+Simplicity scales.
+Security is not optional.
+Good systems are designed, not patched.
 
 Connect
 
-Email: your-email@example.com
+GitHub: https://github.com/balas2027
 
-LinkedIn: your-linkedin
-GitHub: github.com/balas2027
+LinkedIn: Add your link
+Email: Add your professional email
