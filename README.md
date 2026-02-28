@@ -38,7 +38,7 @@ https://uberclone-balas.vercel.app/
 Unified Learning Platform — LMS System
 https://unified-learning.vercel.app/
 
-Ilakkanam.in — Tamil Learning Platform
+Ilakkanam.in - Comapny website developed for Ilakkanam Pvt Ltd.
 https://ilakkanam.in
 
 Engineering Focus (2026)
