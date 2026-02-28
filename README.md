@@ -289,9 +289,9 @@ currently_building: Production-ready systems with clean,
 <div align="center">
 
 <a href="https://github.com/balas2027"><img src="https://img.shields.io/badge/GitHub-balas2027-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>&nbsp;
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=0d1117" /></a>&nbsp;
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-Reach_Out-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0d1117" /></a>&nbsp;
-<a href="https://ilakkanam.in"><img src="https://img.shields.io/badge/Portfolio-Live-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://linkedin.com/in/balaskanthan-ak-3566b8291"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=0d1117" /></a>&nbsp;
+<a href="mailto:balaskanthan.ak@gmail.com"><img src="https://img.shields.io/badge/Gmail-Reach_Out-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0d1117" /></a>&nbsp;
+<a href="https://balaskanthan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
 
 </div>
 
