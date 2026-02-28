@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer+%C2%B7+Cybersecurity+Enthusiast;BE+Computer+Science+%E2%80%93+Cyber+Security;Building+Secure%2C+Scalable%2C+Production-Ready+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer+%C2%B7+Building+Production-Ready+Applications;React+%C2%B7+Node.js+%C2%B7+Next.js+%C2%B7+Spring+Boot+%C2%B7+FastAPI;Turning+Ideas+Into+Scalable+Web+Platforms)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,9 +18,9 @@
 
 ## Profile Summary
 
-I am a Computer Science undergraduate specializing in **Cyber Security** with strong experience in full stack development. I have worked on **production-level applications**, built **scalable web platforms**, and developed cybersecurity tools focused on analysis and secure coding practices.
+I am a Computer Science undergraduate with strong experience in **full stack development**. I have worked on **production-level applications**, built **scalable web platforms**, and delivered end-to-end solutions from frontend to backend.
 
-I am particularly interested in **secure software engineering**, **backend architecture**, and building real-world systems that are **reliable, scalable, and security-focused**.
+I am particularly interested in **modern web technologies**, **backend architecture**, and building real-world systems that are **reliable, scalable, and well-engineered**.
 
 <br/>
 
@@ -70,15 +70,14 @@ I am particularly interested in **secure software engineering**, **backend archi
 </td>
 <td align="center" width="50%">
 
-**Cybersecurity & Tools**
+**Tools & Platforms**
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1a1b27?style=flat-square&logo=wireshark&logoColor=1679a7)
-![Scapy](https://img.shields.io/badge/Scapy-1a1b27?style=flat-square&logo=python&logoColor=3776ab)
-![PCAP](https://img.shields.io/badge/PCAP_Analysis-1a1b27?style=flat-square&logo=wireshark&logoColor=1679a7)
 ![Git](https://img.shields.io/badge/Git-1a1b27?style=flat-square&logo=git&logoColor=f05032)
+![Docker](https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=2496ed)
 ![Postman](https://img.shields.io/badge/Postman-1a1b27?style=flat-square&logo=postman&logoColor=ff6c37)
 ![VS Code](https://img.shields.io/badge/VS_Code-1a1b27?style=flat-square&logo=visualstudiocode&logoColor=007acc)
 ![Vercel](https://img.shields.io/badge/Vercel-1a1b27?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1a1b27?style=flat-square&logo=figma&logoColor=f24e1e)
 
 </td>
 </tr>
@@ -175,7 +174,7 @@ Contributed to enterprise-level ERP modules including inventory, HR, and finance
 
 ## Areas of Interest
 
-`Secure Backend Architecture` · `Application Security` · `Network Traffic Analysis` · `Scalable Web Systems` · `Data Structures and Algorithms`
+`Full Stack Development` · `Backend Architecture` · `Scalable Web Systems` · `API Design` · `Data Structures and Algorithms`
 
 <br/>
 
