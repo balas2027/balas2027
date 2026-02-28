@@ -84,37 +84,68 @@ I focus on **modern web technologies**, **clean backend architecture**, and buil
 
 <div align="center">
 
-> **ilakkanam.in** — Live Tamil learning platform with interactive lessons, quizzes, and progress tracking
-> 
-> [Visit →](https://ilakkanam.in)
+---
 
-> **CyberXelerae 2K26** — Official symposium website with event registration and schedule display
-> 
-> [Visit →](https://cyberxelerae2k26.vercel.app/)
+**ilakkanam.in**
+`Next.js` `Tailwind CSS` `Vercel`
+Live Tamil learning platform with interactive lessons, quizzes, and progress tracking. Built during internship at Codeship Pvt Ltd.
+[**Visit →**](https://ilakkanam.in)
 
-> **Better.com Clone** — Modern real estate platform with property listings and mortgage calculator
-> 
-> [Visit →](https://better-com-clone-balas.vercel.app/)
+---
 
-> **HavenTrail** — Travel safety platform with real-time location sharing and emergency alerts
-> 
-> [Visit →](https://haventrail.free.nf)
+**CyberXelerae 2K26**
+`Next.js` `Tailwind CSS` `Vercel`
+Official cybersecurity symposium website with event registration and schedule display.
+[**Visit →**](https://cyberxelerae2k26.vercel.app/)
 
-> **UberClone** — Ride-sharing application with real-time driver tracking and booking system
-> 
-> [Visit →](https://uberclone-balas.vercel.app/)
+---
 
-> **Unified Learning** — Online learning platform with courses, quizzes, and certificate generation
-> 
-> [Visit →](https://unified-learning.vercel.app/)
+**Better.com Clone**
+`React` `Node.js` `Tailwind CSS`
+Modern real estate platform clone with property listings and mortgage calculator.
+[**Visit →**](https://better-com-clone-balas.vercel.app/)
 
-> **Vibe Holidays** — Vacation booking platform with real-time availability and secure payment integration
-> 
-> [Visit →](https://vibe-holidays.vercel.app/)
+---
 
-> **Tor Unveil** — PCAP analysis tool for detecting and analyzing Tor network traffic
+**HavenTrail**
+`Node.js` `Maps API` `MongoDB`
+Travel safety platform enabling real-time location sharing and emergency alerts.
+[**Visit →**](https://haventrail.free.nf)
 
-> **SecureCode Analyzer** — CLI and web-based static source code vulnerability analysis tool
+---
+
+**UberClone**
+`React` `Node.js` `Socket.io`
+Ride-sharing application with real-time driver tracking and booking system.
+[**Visit →**](https://uberclone-balas.vercel.app/)
+
+---
+
+**Unified Learning**
+`Next.js` `PostgreSQL` `JWT`
+Comprehensive online learning platform with courses, quizzes, and certificate generation.
+[**Visit →**](https://unified-learning.vercel.app/)
+
+---
+
+**Vibe Holidays**
+`React` `Node.js` `Stripe`
+Vacation booking platform with real-time availability and secure payment integration.
+[**Visit →**](https://vibe-holidays.vercel.app/)
+
+---
+
+**Tor Unveil**
+`Python` `Scapy` `PCAP`
+Security-focused packet analysis tool designed to detect and analyze Tor network traffic.
+
+---
+
+**SecureCode Analyzer**
+`Python` `Flask` `Static Analysis`
+CLI and web-based application for static source code vulnerability analysis and security reporting.
+
+---
 
 </div>
 
