@@ -158,11 +158,25 @@ RMK College of Engineering and Technology · 2023 – 2027 · CGPA: 8.00
 
 ### Experience
 
-**Intern — Full Stack Development**
-Worked on live production systems including [ilakkanam.in](https://ilakkanam.in)
+**Front-End Developer Intern** · Codeship Private Limited, Chennai (Onsite)
+`React` `Tailwind CSS` `ShadCN/UI` · May 2025 – June 2025
 
-**Intern — Web Development**
-Contributed to enterprise-level ERP modules — inventory, HR, and finance systems
+- Developed the official client website [ilakkanam.in](https://ilakkanam.in) end-to-end based on client requirements
+- Owned the complete SDLC — requirement gathering, UI planning, development, testing, deployment, and optimization
+- Built a responsive, production-ready application focused on performance, scalability, and user experience
+- Applied SEO optimization and accessibility improvements, achieving strong Lighthouse scores
+- Worked in an agile environment with debugging, code reviews, and real-time problem solving
+
+<br/>
+
+**Full Stack Developer Intern** · Vizoroz Technologies, Chennai (Remote)
+`React` `FastAPI` `Microsoft SQL Server` `ShadCN` · Oct 2025 – April 2026
+
+- Contributing to the development of a real-time ERP system, implementing core features and application logic
+- Leading team coordination — assigning tasks and monitoring progress in a remote environment
+- Managing GitHub workflows including branch creation, pull requests, code reviews, and merging
+- Resolving merge conflicts and ensuring smooth collaboration across multiple contributors
+- Writing clean, secure, and maintainable code aligned with project standards
 
 ---
 
