@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:1f6feb,100:1a1b27&height=200&section=header&text=Balaskanthan&fontSize=60&fontColor=e6edf3&animation=fadeIn&fontAlignY=40&stroke=1f6feb&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,40:1f6feb,60:58a6ff,85:161b22,100:0d1117&height=230&section=header&text=Balaskanthan&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=58a6ff" width="100%"/>
 
 <br/>
-
-### Full Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=600&height=35&lines=React+%C2%B7+Node.js+%C2%B7+Next.js+%C2%B7+Spring+Boot+%C2%B7+FastAPI;Building+Scalable+Web+Platforms+From+Scratch;Turning+Ideas+Into+Production-Ready+Applications)](https://git.io/typing-svg)
 
