@@ -84,12 +84,13 @@ I focus on **modern web technologies**, **clean backend architecture**, and buil
 
 | Project | Tech Stack | Description | Link |
 |:--------|:-----------|:------------|:----:|
-| **ilakkanam.in** | `Next.js` `Tailwind` `Vercel` | Live Tamil learning platform with lessons, quizzes & progress tracking | [Live ↗](https://ilakkanam.in) |
+| **ilakkanam.in** | `Next.js` `Tailwind` `Vercel` | Developed the official client's company website with certificate validation system | [Live ↗](https://ilakkanam.in) |
 | **CyberXelerae 2K26** | `Next.js` `Tailwind` `Vercel` | Official cybersecurity symposium website with event registration | [Live ↗](https://cyberxelerae2k26.vercel.app/) |
 | **Better.com Clone** | `React` `Node.js` `Tailwind` | Real estate platform with property listings & mortgage calculator | [Live ↗](https://better-com-clone-balas.vercel.app/) |
 | **HavenTrail** | `Node.js` `Maps API` `MongoDB` | Travel safety platform with real-time location sharing & alerts | [Live ↗](https://haventrail.free.nf) |
 | **UberClone** | `React` `Node.js` `Socket.io` | Ride-sharing app with real-time driver tracking & booking | [Live ↗](https://uberclone-balas.vercel.app/) |
 | **Unified Learning** | `Next.js` `PostgreSQL` `JWT` | Online learning platform with courses, quizzes & certificates | [Live ↗](https://unified-learning.vercel.app/) |
+| **Subscription Management Platform** | `React` `FastAPI` `MSSQL` | Scalable SaaS platform for managing subscription plans, recurring billing, user lifecycle, payment status tracking, role-based admin control & reporting dashboard | — |
 | **Vibe Holidays** | `React` `Node.js` `Stripe` | Vacation booking platform with availability & payment integration | [Live ↗](https://vibe-holidays.vercel.app/) |
 | **Tor Unveil** | `Python` `Scapy` `PCAP` | Packet analysis tool for detecting & analyzing Tor network traffic | — |
 | **SecureCode Analyzer** | `Python` `Flask` `Static Analysis` | CLI & web-based static source code vulnerability analysis tool | — |
@@ -130,7 +131,7 @@ I focus on **modern web technologies**, **clean backend architecture**, and buil
 ### Education
 
 **Bachelor of Engineering** — Computer Science and Engineering (Cyber Security)
-RMK College of Engineering and Technology · 2023 – 2027 · CGPA: 8.00
+RMK College of Engineering and Technology · 2023 – 2027 · CGPA: 8.03
 
 ---
 
