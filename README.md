@@ -151,15 +151,15 @@ RMK College of Engineering and Technology · 2023 – 2027 · CGPA: 8.12
 **Full Stack Developer Intern** · Vizoroz Technologies, Chennai (Remote)
 `React` `FastAPI` `Microsoft SQL Server` `ShadCN` · Oct 2025 – April 2026
 
--Developed a full-scale ERP platform (CRM, HR & Ticketing modules) end-to-end across frontend, backend, and database layers.
+Developed a full-scale ERP platform (CRM, HR & Ticketing modules) end-to-end across frontend, backend, and database layers.
  
--1. Built CRM and HR modules covering deals, leads, clients, campaigns, projects, tasks, timesheets, and ticketing with a unified calendar, Client 360 view, and timeline-based history tracking.
+1. Built CRM and HR modules covering deals, leads, clients, campaigns, projects, tasks, timesheets, and ticketing with a unified calendar, Client 360 view, and timeline-based history tracking.
 
--2. Integrated Google Meet, Microsoft Teams, Google Calendar, Gmail, and Outlook — with real-time sync for meeting creation, updates, and deletions across platforms.
+2. Integrated Google Meet, Microsoft Teams, Google Calendar, Gmail, and Outlook — with real-time sync for meeting creation, updates, and deletions across platforms.
 
--3. Built a global mail service (Gmail API / Microsoft Graph API) with a reusable compose email modal accessible from every screen, serving all outbound emails — event invites, ticket & task update notifications.
+3. Built a global mail service (Gmail API / Microsoft Graph API) with a reusable compose email modal accessible from every screen, serving all outbound emails — event invites, ticket & task update notifications.
 
--4. Built reusable components that works across all screens — Kanban board, description editor, comments, PDF generation, Google Sheets export, and record detail views surfacing all related data per entity.
+4. Built reusable components that works across all screens — Kanban board, description editor, comments, PDF generation, Google Sheets export, and record detail views surfacing all related data per entity.
  
 
 ---
